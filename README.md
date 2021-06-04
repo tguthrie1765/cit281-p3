@@ -1,3 +1,5 @@
+![img node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+
 In this project I learned how to write and  and execute a non-web server Node.js JavaScript code using VSCode. I also practiced how to use code modules and modern JS syntax.
 
 <br>
