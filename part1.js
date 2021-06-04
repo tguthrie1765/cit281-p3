@@ -25,4 +25,3 @@ console.log("{}", coinCount({denom: 5, count: 3}));
 console.log("{}s", coinCount({denom: 5, count: 3},{denom: 10, count: 2}));
 const coins = [{denom: 25, count: 2},{denom: 1, count: 7}];
 console.log("...[{}]", coinCount(...coins));
-const fs = require('fs');
